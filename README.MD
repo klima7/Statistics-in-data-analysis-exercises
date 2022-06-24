@@ -1,0 +1,1 @@
+# Exercises for Statistic in data analysis subject - NN, KNN, NM
